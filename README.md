@@ -1,4 +1,4 @@
 # hello-world
 Github Guide
 
-A bit about myself
+A bit about myself.
